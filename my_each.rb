@@ -1,4 +1,4 @@
-def hannah_each(array)
+def my(array)
 i = 0
 while i < array.length
   yield(array[i])
